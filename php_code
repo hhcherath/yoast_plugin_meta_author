@@ -1,0 +1,2 @@
+// ====================== REMOVE YOAST META AUTHOR ====================== //
+add_filter('wpseo_meta_author', '__return_false');
